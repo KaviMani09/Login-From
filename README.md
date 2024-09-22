@@ -5,7 +5,11 @@
 
 ## Skills
 
-**HTML, CSS, JavaScript, PHP, MYSQL** 
+- HTML
+-  CSS
+- JavaScript
+- PHP
+- MYSQL
 
 ## Features
 - User Registration 
