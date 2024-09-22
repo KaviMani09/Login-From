@@ -9,11 +9,13 @@
 
 
 ## Features
-
+-User Registration
+-User Login
+-Session Management
+-Validation and Error Handling
 
 ## Project Image
 
-![WeatherApi](https://github.com/user-attachments/assets/c6a7fc60-fec2-4369-bf0b-c3206aa99928)
 
 ## Run Locally
 
@@ -29,7 +31,7 @@ Open with VSCode
   code .
 ```
 
-Open with live server
+Open with local server
 
 ```bash
  Localhost
