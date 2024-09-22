@@ -9,13 +9,9 @@
 
 ## Features
 - User Registration 
-- Feature 2
-- Feature 3
--
--User Login
--Session Management
--Validation and Error Handling
-
+- User Login 
+- Session Management
+- Validation and Error Handling
 
 ## Run Locally
 
