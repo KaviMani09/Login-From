@@ -8,10 +8,10 @@
 **HTML, CSS, JavaScript, PHP, MYSQL** 
 
 ## Features
-- Feature 1
+- User Registration 1
 - Feature 2
 - Feature 3
--User Registration
+-
 -User Login
 -Session Management
 -Validation and Error Handling
