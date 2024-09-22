@@ -3,10 +3,7 @@
 
 ## Skills
 
-**Client:** HTML, CSS, JavaScript, PHP, MYSQL
-
-## Live 
-
+**HTML, CSS, JavaScript, PHP, MYSQL** 
 
 ## Features
 -User Registration
