@@ -8,7 +8,7 @@
 **HTML, CSS, JavaScript, PHP, MYSQL** 
 
 ## Features
-- User Registration 1
+- User Registration 
 - Feature 2
 - Feature 3
 -
